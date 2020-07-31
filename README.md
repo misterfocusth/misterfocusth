@@ -15,6 +15,6 @@
 
 ## Contact Me - ช่องทางการติดต่อ
 - Facebook Profile : (https://web.facebook.com/Silapakdeewong2546/)
-- Facebook Page : (https://web.facebook.com/Mr.FocusTH/)
+- Facebook Page : (https://web.facebook.com/MisterFocusTH.dev)
 - Linkedin Profile : (https://www.linkedin.com/in/sila-pakdeewong/)
 - Youtube : (https://www.youtube.com/channel/UCXKxAvmusB9dPvW7UUr_etQ/)
