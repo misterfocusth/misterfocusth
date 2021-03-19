@@ -14,7 +14,7 @@ const misterfocusth = {
   age: number = 17,
   school: string = 'Sriayudhya School',
   programmingSkill: ["JavaScript", "Java / Kotlin", "Python", "Dart"],
-  development: ["Back-end", "Web Application", "Android", "Flutter", "LINE API"]
+  development: ["Back-end", "Web Application", "Android", "Flutter", "LINE API"],
   dreamjob: string = 'Software Engineer',
 };
 ```
