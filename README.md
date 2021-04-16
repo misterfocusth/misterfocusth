@@ -12,7 +12,7 @@ const misterfocusth = {
   name: string = 'Mr.Sila Pakdeewong',
   nickname: 'Focus (Cus)',
   age: number = 17,
-  school: string = 'Sriayudhya School',
+  school: string = 'Sri Ayudhya School under the Royal Patronage of H.R.H. Princess Bejraratanarajsuda',
   programmingSkill: ["JavaScript", "Java / Kotlin", "Python", "Dart"],
   development: ["Back-end", "Web Application", "Android", "Flutter", "LINE API"],
   dreamjob: string = 'Software Engineer',
