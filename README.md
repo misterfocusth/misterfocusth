@@ -1,20 +1,12 @@
-<img align="center" src="https://github.com/misterfocusth/misterfocusth/blob/master/Sila-Pakdeewong.gif"></img>
+## About Me
+M.6 English - Chinese Program Student at Sriayudhya School (Thailand). I'm also interested and experienced in Android (Mobile Application) Development, LINE API, Back-end Development and Blockchain & Smart Contract.
 
-<p align="center">
- <a href="https://web.facebook.com/Silapakdeewong2546/"> <img src="https://img.icons8.com/color/40/000000/facebook-new.png"/> </a>
- <a href="https://www.linkedin.com/in/sila-pakdeewong/"> <img src="https://img.icons8.com/color/40/000000/linkedin.png"/> </a>
- <a href="https://www.youtube.com/channel/UCXKxAvmusB9dPvW7UUr_etQ"> <img src="https://img.icons8.com/color/40/000000/youtube-play.png"/> </a>
- <a href="mailto:FocusPakdeewong2546@gmail.com"> <img src="https://img.icons8.com/color/40/000000/gmail--v2.png"/> </a>
-</p>
+I want to be a Software Engineer because I like to developing such as Applications and Services that useful for everyone and bring better quality of life. And I like to spend more time to learn new things that can improve my skills and knowledge or I like to read a technical article about Programming, Technology or about my interesting things.
 
-```javascript
-const misterfocusth = {
-  name: string = 'Mr.Sila Pakdeewong',
-  nickname: 'Focus (Cus)',
-  age: number = 17,
-  school: string = 'Sri Ayudhya School under the Royal Patronage of H.R.H. Princess Bejraratanarajsuda',
-  programmingSkill: ["JavaScript", "Java / Kotlin", "Python", "Dart"],
-  development: ["Back-end", "Web Application", "Android", "Flutter", "LINE API"],
-  dreamjob: string = 'Software Engineer',
-};
-```
+And I also created a Facebook page named : Mr.Focus and YouTube Channel named : MISTERFOCUSTH to share my knowledge and my experiences for people who like and are interested in Programming, Technology and want to learn new things.
+
+## Programming Skills & Technology Stack
+JavaScript / Node.JS / Java & Kotlin / Python / Solidity / Dart
+
+##  Contract Me
+[Facebook](https://web.facebook.com/Silapakdeewong2546) / [Twitter](https://twitter.com/FocusPakdeewong) / [Youtube](https://www.youtube.com/channel/UCXKxAvmusB9dPvW7UUr_etQ) / [LinkedIn](https://www.linkedin.com/in/sila-pakdeewong/) / [Medium](https://medium.com/@misterfocusth)
