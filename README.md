@@ -32,10 +32,6 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
  <a> <img height='150' src="https://github-readme-streak-stats.herokuapp.com/?user=misterfocusth"/> </a>
 </p>
 
-<p align="center">
- <a> <img src="https://metrics.lecoq.io/misterfocusth"/> </a>
-</p>
-
 ##  My Contract & Social Media & Blog
 <p align="left">
  <a href="https://web.facebook.com/Silapakdeewong2546"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
