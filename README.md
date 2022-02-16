@@ -48,7 +48,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
 - Microsoft Certified: Azure Data Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
 
-[Find more Honors & awards on linkedin](https://www.linkedin.com/in/sila-pakdeewong/)
+[🔎 Find more Honors & awards on Linkedin...](https://www.linkedin.com/in/sila-pakdeewong/)
 
 ## 📝 Latest Blog Posts
 
@@ -58,7 +58,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
 - [Let’s create your own BEP20 Token on Binance Smart Chain(Step-by-Step by using BEP20-Token Template)](https://misterfocusth.medium.com/lets-create-your-own-bep20-token-on-binance-smart-chain-step-by-step-by-using-bep20-token-c41eacd1a5da)
 - [อะไรใหม่ อะไรน่าสนใจ ในหัวข้อ What’s New in Firebase เก็บตกจากงาน GDG DevFest Bangkok 2020](https://medium.com/firebasethailand/%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88-%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%83%E0%B8%88-%E0%B9%83%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%82%E0%B9%89%E0%B8%AD-whats-new-in-firebase-%E0%B9%80%E0%B8%81%E0%B9%87%E0%B8%9A%E0%B8%95%E0%B8%81%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99-gdg-devfest-bangkok-2020-b0c7f1c52acc)
 
-[Find more blogs post on Medium...](https://misterfocusth.medium.com/)
+[🔎 Find more blogs post on Medium...](https://misterfocusth.medium.com/)
 
 ## 🌐 My Contract & Social Media & Blog
 <p align="left">
@@ -67,5 +67,4 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
  <a href="https://www.linkedin.com/in/sila-pakdeewong/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  <a href="https://www.youtube.com/c/MISTERFOCUSTH"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
  <a href="https://medium.com/@misterfocusth"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> </a>
- <a href=""> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/> </a>
 </p>
