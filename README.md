@@ -27,7 +27,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
  <a> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> </a>
 </p>
 
-## GitHub Status
+## 📈 GitHub Status
 
 <p align="center">
  <a> <img height='150' src="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true"/> </a>
@@ -60,7 +60,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
 
 [Find more blogs post on Medium...](https://misterfocusth.medium.com/)
 
-##  My Contract & Social Media & Blog
+## 🌐 My Contract & Social Media & Blog
 <p align="left">
  <a href="https://web.facebook.com/Silapakdeewong2546"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
  <a href="https://twitter.com/FocusPakdeewong"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
