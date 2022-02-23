@@ -38,8 +38,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
 ## 📚 Projects
 
 <p align="center">
- <a href="https://github.com/misterfocusth/Sri-Ayudhya-WeRe-Student-App" > <img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-WeRe-Student-App" > </a>
-  <a href="https://github.com/misterfocusth/Sri-Ayudhya-WeRe-Admin-App" > <img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-WeRe-Admin-App" /> </a>
+ <a href="https://github.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project" > <img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-School-WeRe-Project" > </a>
 </p>
 
 ## 🏆Honors & Awards
