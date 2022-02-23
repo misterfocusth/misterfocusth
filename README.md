@@ -42,8 +42,12 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
   <a href="https://github.com/misterfocusth/Sri-Ayudhya-WeRe-Admin-App" > <img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-WeRe-Admin-App" /> </a>
 </p>
 
-## 🏆Honors & awards
+## 🏆Honors & Awards
 
+[Awards]
+- National Software Contest 2022 (NSC 24th) : Finalist and Received funding for the project from [NSTDA](https://www.nstda.or.th/home/)
+
+[Honors]
 - Microsoft Certified: Azure Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
 - Microsoft Certified: Azure AI Fundamentals
