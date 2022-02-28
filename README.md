@@ -30,7 +30,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
 ## 📈 GitHub Status
 
 <p align="center">
- <a> <img height='150' src="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true"/> </a>
+ <a> <img height='150' src="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"/> </a>
  <a> <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterfocusth&layout=compact"/> </a>
 </p>
 
