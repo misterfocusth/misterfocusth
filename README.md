@@ -44,7 +44,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
 ## 🏆Honors & Awards
 
 [Awards]
-- National Software Contest 2022 (NSC 24th) : Finalist and Received funding for the project from [NSTDA](https://www.nstda.or.th/home/)
+- National Software Contest 2022 (NSC 24th) : National 1st - Runner Up / Finalist and Received funding for the project from [NSTDA](https://www.nstda.or.th/home/)
 
 [Honors]
 - Microsoft Certified: Azure Fundamentals [See credential](https://www.youracclaim.com/badges/8c410943-c97c-4f11-98a7-4161e5ee1d4e)
