@@ -1,12 +1,14 @@
 ## 👋 About Me
-M.6 English - Chinese Program Student at Sriayudhya School (Thailand). I'm also interested and experienced in Android (Mobile Application) Development, LINE API, Back-end Development and Blockchain & Smart Contract.
+(Will starting on August, 2022) 1st Year - Faculty of Information Technology (IT) Student at King Mongkut's Institute of Technology Ladkrabang (KMITL) who experienced and focusing on Web Application / Back-end / Mobile Application and Blockchain Development.
 
-I want to be a Software Engineer because I like to developing such as Applications and Services that useful for everyone and bring better quality of life. And I like to spend more time to learn new things that can improve my skills and knowledge or I like to read a technical article about Programming, Technology or about my interesting things.
-
-And I also created a Facebook page named : Mr.Focus and YouTube Channel named : MISTERFOCUSTH to share my knowledge and my experiences for people who like and are interested in Programming, Technology and want to learn new things.
+In the future, I want to be a Software Engineer because I believe technology and software development always make a change, bring new things and innovations, and also bring a better quality of life for many people. 
 
 ## 💼 Programming Skills & Technology Stack
 
+- Languages : JavaScript & TypeScript (Node) / HTML & CSS / Java & Kotlin / Go / Python
+- Frameworks : React.JS / Material-UI / Tailwind
+- Tools : Visual Studio Code / GitHub / Material-UI
+- Other : GitHub / Firebase
 <p align="center">
  <a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
  <a> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
@@ -44,7 +46,7 @@ And I also created a Facebook page named : Mr.Focus and YouTube Channel named : 
 ## 🏆Honors & Awards
 
 [Awards]
-- National Software Contest 2022 (NSC 24th) : National 1st - Runner Up / Finalist and Received funding for the project from [NSTDA](https://www.nstda.or.th/home/)
+- National Software Contest 2022 (NSC 24th) : <b>National 1st - Runner Up / Finalist and Received funding for research and development from [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/home/)</b>
 
 [Honors]
 - Microsoft Certified: Azure Fundamentals [See credential](https://www.youracclaim.com/badges/8c410943-c97c-4f11-98a7-4161e5ee1d4e)
