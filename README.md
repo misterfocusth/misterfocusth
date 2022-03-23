@@ -6,9 +6,9 @@ In the future, I want to be a Software Engineer because I believe technology and
 ## 💼 Programming Skills & Technology Stack
 
 - Languages : JavaScript & TypeScript (Node) / HTML & CSS / Java & Kotlin / Go / Python
-- Frameworks : React.JS / Material-UI / Tailwind
-- Tools : Visual Studio Code / GitHub / Material-UI
-- Other : GitHub / Firebase
+- Frameworks : Express / React.JS / Material-UI / Tailwind
+- Tools : Visual Studio Code / GitHub
+- Other : GitHub / Firebase / Microsoft Azure
 <p align="center">
  <a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
  <a> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
