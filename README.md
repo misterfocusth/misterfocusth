@@ -32,8 +32,8 @@ In the future, I want to be a Software Engineer because I believe technology and
 ## 📈 GitHub Status
 
 <p align="center">
- <a> <img height='150' src="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"/> </a>
- <a> <img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=misterfocusth&layout=compact"/> </a>
+ <a href="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"> <img height='150' src="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"/> </a>
+ <a href="https://badge42.vercel.app/api/v2/cl2qdxvri012509mllmg19men/stats?cursusId=3&coalitionId=undefined"> <img height='150' src="https://badge42.vercel.app/api/v2/cl2qdxvri012509mllmg19men/stats?cursusId=3&coalitionId=undefined"/> </a>
 </p>
 
 
