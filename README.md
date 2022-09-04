@@ -1,7 +1,7 @@
 ## 👋 About Me
-(Will starting on August, 2022) 1st Year - Faculty of Information Technology (IT) Student at King Mongkut's Institute of Technology Ladkrabang (KMITL) who experienced and focusing on Web Application / Back-end / Mobile Application and Blockchain Development.
+1st Year - School of IT Student at KMITL | Student / Tech Blogger / Content Creator / Developer - Microsoft Certified AZ / Data / AI Fundamentals | #JWC12 #MLSA #IT20 KMITL 
 
-In the future, I want to be a Software Engineer because I believe technology and software development always make a change, bring new things and innovations, and also bring a better quality of life for many people. 
+Hello, I am Sila Pakdeewong, My nickname is Focus, and I am from Bangkok, Thailand. Currently, I am 1st Year Information Technology Student at School of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL) I am experienced and focused on Web Application / Back-end / Mobile Application and Blockchain Development.
 
 ## 💼 Programming Skills & Technology Stack
 
@@ -40,6 +40,7 @@ In the future, I want to be a Software Engineer because I believe technology and
 
 <p align="center">
  <a href="https://github.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project" > <img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-School-WeRe-Project" > </a>
+  <a href="https://github.com/misterfocusth/IT-KMITL-PSCP-2022" > <img height='150' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=IT-KMITL-PSCP-2022" > </a>
 </p>
 
 ## 🏆Honors & Awards
@@ -48,6 +49,7 @@ In the future, I want to be a Software Engineer because I believe technology and
 - National Software Contest 2022 (NSC 24th) : <b>National 1st - Runner Up / Finalist and Received funding for research and development from [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/home/)</b>
 
 [Honors]
+- Alpha | Microsoft Learn Student Ambassador (MLSA) [See Profile on SA Website](https://studentambassadors.microsoft.com/en-US/profile/206212)
 - Microsoft Certified: Azure Fundamentals [See credential](https://www.youracclaim.com/badges/8c410943-c97c-4f11-98a7-4161e5ee1d4e)
 - Microsoft Certified: Azure Data Fundamentals [See credential](https://www.youracclaim.com/badges/25a2c902-a2a1-4ddc-8699-3f884c0ef8df?source=linked_in_profile)
 - Microsoft Certified: Azure AI Fundamentals [See credential](https://www.credly.com/earner/earned/badge/4ad8145a-c937-42dc-b9c6-afc22c3454ba)
