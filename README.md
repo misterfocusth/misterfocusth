@@ -42,6 +42,7 @@ Hello, I am Sila Pakdeewong, My nickname is Focus, and I am from Bangkok, Thaila
  <a href="https://github.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-School-WeRe-Project" > </a>
  <a href="https://github.com/misterfocusth/IT-KMITL-PSCP-2022" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=IT-KMITL-PSCP-2022" > </a>
  <a href="https://github.com/misterfocusth/Kin-Arai-Dee-KMITL" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Kin-Arai-Dee-KMITL" > </a>
+  <a href="https://github.com/misterfocusth/LINE-Chatbot-COVID-19-TH-Today" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=LINE-Chatbot-COVID-19-TH-Today" > </a>
  
 </p>
 
