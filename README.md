@@ -1,32 +1,15 @@
 ## 👋 About Me
-1st Year - School of IT Student at KMITL | Student / Tech Blogger / Content Creator / Developer - Microsoft Certified AZ / Data / AI Fundamentals | #JWC12 #MLSA #IT20 KMITL 
 
-Hello, I am Sila Pakdeewong, My nickname is Focus, and I am from Bangkok, Thailand. Currently, I am 1st Year Information Technology Student at School of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL) I am experienced and focused on Web Application / Back-end / Mobile Application and Blockchain Development.
+Passionate 1st Year student studying Information Technology at King Mongkut’s Institute of Technology Ladkrabang (KMITL) - Bangkok, Thailand, with a demonstrated history of working and experience in Full-Stack Software Development, by using a Bachelor of Science (B.Sc.) in Information Technology knowledge. I am experienced and focused on Web Application / Back-end / Mobile Application and Blockchain Development.
+- ℹ️ for more information about me or my resume please visit: https://bit.ly/sila-pak-resume
 
 ## 💼 Programming Skills & Technology Stack
 
-- Languages : JavaScript & TypeScript (Node) / HTML & CSS / Java & Kotlin / Go / Python
-- Frameworks : Express / React.JS / NextJS / Material-UI / Tailwind CSS
-- Tools : Visual Studio Code / GitHub
-- Other : GitHub / Firebase / Microsoft Azure
-<p align="center">
- <a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
- <a> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </a>
-</p>
-
-<p align="center">
- <a> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
- <a> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/> </a>
- <a> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/> </a>
-</p>
+- Languages : JavaScript & TypeScript, Python, NodeJS, Java, HTML & CSS
+- Frameworks : React, React-Native, Next, Nest, Tailwind, Express, Material-UI, Mantine
+- Database:  MySQL, PostgreSQL, MongoDB, Cloud Firestore, Prisma
+- Tools : Visual Studio Code, Git, Docker
+- Other : Microsoft Azure, Firebase, Vercel, Amazon Web Services (AWS)
 
 ## 📈 GitHub Status
 
@@ -40,10 +23,9 @@ Hello, I am Sila Pakdeewong, My nickname is Focus, and I am from Bangkok, Thaila
 
 <p align="center">
  <a href="https://github.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-School-WeRe-Project" > </a>
- <a href="https://github.com/misterfocusth/IT-KMITL-PSCP-2022" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=IT-KMITL-PSCP-2022" > </a>
  <a href="https://github.com/misterfocusth/Kin-Arai-Dee-KMITL" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Kin-Arai-Dee-KMITL" > </a>
-  <a href="https://github.com/misterfocusth/LINE-Chatbot-COVID-19-TH-Today" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=LINE-Chatbot-COVID-19-TH-Today" > </a>
- 
+ <a href="https://github.com/misterfocusth/TH-Covid-Data-Virtualization-G2Plot" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=TH-Covid-Data-Virtualization-G2Plot" > </a>
+ <a href="https://github.com/misterfocusth/LINE-Chatbot-COVID-19-TH-Today" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=LINE-Chatbot-COVID-19-TH-Today" > </a>
 </p>
 
 ## 🏆Honors & Awards
