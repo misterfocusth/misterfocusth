@@ -1,9 +1,9 @@
-## 👋 About Me
+## 👋 - About Me
 
 Passionate 1st Year student studying Information Technology at King Mongkut’s Institute of Technology Ladkrabang (KMITL) - Bangkok, Thailand, with a demonstrated history of working and experience in Full-Stack Software Development, by using a Bachelor of Science (B.Sc.) in Information Technology knowledge. I am experienced and focused on Web Application / Back-end / Mobile Application and Blockchain Development.
 - ℹ️ for more information about me or my resume please visit: https://bit.ly/sila-pak-resume
 
-## 💼 Programming Skills & Technology Stack
+## 💼 - Programming Skills & Technology Stack
 
 - Languages : JavaScript & TypeScript, Python, NodeJS, Java, HTML & CSS
 - Frameworks : React, React-Native, Next, Nest, Tailwind, Express, Material-UI, Mantine
@@ -11,7 +11,7 @@ Passionate 1st Year student studying Information Technology at King Mongkut’s 
 - Tools : Visual Studio Code, Git, Docker
 - Other : Microsoft Azure, Firebase, Vercel, Amazon Web Services (AWS)
 
-## 📈 GitHub Status
+## 📈 - GitHub Status
 
 <p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"> <img height='150' src="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"/> </a>
@@ -19,27 +19,26 @@ Passionate 1st Year student studying Information Technology at King Mongkut’s 
 </p>
 
 
-## 📚 Projects
+## 📚 - My Projects
 
-<p align="center">
- <a href="https://github.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Sri-Ayudhya-School-WeRe-Project" > </a>
- <a href="https://github.com/misterfocusth/Kin-Arai-Dee-KMITL" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=Kin-Arai-Dee-KMITL" > </a>
- <a href="https://github.com/misterfocusth/TH-Covid-Data-Virtualization-G2Plot" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=TH-Covid-Data-Virtualization-G2Plot" > </a>
- <a href="https://github.com/misterfocusth/LINE-Chatbot-COVID-19-TH-Today" > <img height='125' src="https://github-readme-stats.vercel.app/api/pin/?username=misterfocusth&repo=LINE-Chatbot-COVID-19-TH-Today" > </a>
-</p>
+- <a href="https://github.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project">Sri Ayudhya School - We Re(cycle)</a>
+Received National First (1st) Runner-Up Award in The National Software Contest 24th (NSC2022) 
+and Funding for research and development from [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/home/)
+- <a href="https://github.com/misterfocusth/Kin-Arai-Dee-KMITL">Kin Arai Dee - (Nearby KMITL)</a>
+- <a href="https://github.com/misterfocusth/TH-Covid-Data-Virtualization-G2Plot">Thailand COVID-19 Virtulization Dashboard using G2Plot</a>
+- <a href="https://github.com/misterfocusth/LINE-Chatbot-COVID-19-TH-Today">LINE Chatbot COVID-19 TH - Today</a>
 
-## 🏆Honors & Awards
 
-[Awards]
-- National Software Contest 2022 (NSC 24th) : <b>National 1st - Runner Up / Finalist and Received funding for research and development from [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/home/)</b>
+## 🏆 - My Badges (Certifications, Honors & Awards)
 
-[Honors]
+
+
 - Alpha | Microsoft Learn Student Ambassador (MLSA) [See Profile on SA Website](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/1482b8f7-4b14-49d2-a420-48cd070b44d4)
 - Microsoft Certified: Azure Fundamentals [See credential](https://www.youracclaim.com/badges/8c410943-c97c-4f11-98a7-4161e5ee1d4e)
 - Microsoft Certified: Azure Data Fundamentals [See credential](https://www.youracclaim.com/badges/25a2c902-a2a1-4ddc-8699-3f884c0ef8df?source=linked_in_profile)
 - Microsoft Certified: Azure AI Fundamentals [See credential](https://www.credly.com/earner/earned/badge/4ad8145a-c937-42dc-b9c6-afc22c3454ba)
 
-[🔎 Find more Honors & awards on Linkedin...](https://www.linkedin.com/in/sila-pakdeewong/)
+[🔎 Find more my certifications, honors & awards on Linkedin...](https://www.linkedin.com/in/sila-pakdeewong/)
 
 ## 📝 Latest Blog Posts
 
@@ -51,7 +50,7 @@ Passionate 1st Year student studying Information Technology at King Mongkut’s 
 
 [🔎 Find more blogs post on Medium...](https://misterfocusth.medium.com/)
 
-## 🌐 My Contract & Social Media & Blog
+## ✉️ - My Contract & Social Media & Blog
 <p align="left">
  <a href="https://web.facebook.com/Silapakdeewong2546"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
  <a href="https://twitter.com/FocusPakdeewong"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
