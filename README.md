@@ -1,6 +1,6 @@
 ## 👋 - About Me
 
-Passionate 1st Year student studying Information Technology at King Mongkut’s Institute of Technology Ladkrabang (KMITL) - Bangkok, Thailand, with a demonstrated history of working and experience in Full-Stack Software Development, by using a Bachelor of Science (B.Sc.) in Information Technology knowledge. I am experienced and focused on Web Application / Back-end / Mobile Application and Blockchain Development.
+Passionate 2nd Year student studying Information Technology at King Mongkut’s Institute of Technology Ladkrabang (KMITL) - Bangkok, Thailand, with a demonstrated history of working and experience in Full-Stack Software Development, by using a Bachelor of Science (B.Sc.) in Information Technology knowledge. I am experienced and focused on Web Application / Back-end / Mobile Application and Blockchain Development.
 ## 💼 - Programming Skills & Technology Stack
 
 - Languages : JavaScript & TypeScript, Python, NodeJS, Java, HTML & CSS
