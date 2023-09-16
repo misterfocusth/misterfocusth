@@ -30,7 +30,7 @@ and Funding for research and development from [National Science and Technology D
 
 ## 🏆 - My Badges (Certifications, Honors & Awards)
 
-- Beta | Microsoft Learn Student Ambassadors (MLSA) [See Profile on SA Website](https://studentambassadors.microsoft.com/en-US/studentambassadors/profile/1482b8f7-4b14-49d2-a420-48cd070b44d4)
+- Beta | Microsoft Learn Student Ambassadors (MLSA) [See Profile on SA Website](https://mvp.microsoft.com/en-US/studentambassadors/profile/1482b8f7-4b14-49d2-a420-48cd070b44d4)
 - Microsoft Certified: Azure Fundamentals [See credential](https://www.youracclaim.com/badges/8c410943-c97c-4f11-98a7-4161e5ee1d4e)
 - Microsoft Certified: Azure Data Fundamentals [See credential](https://www.youracclaim.com/badges/25a2c902-a2a1-4ddc-8699-3f884c0ef8df?source=linked_in_profile)
 - Microsoft Certified: Azure AI Fundamentals [See credential](https://www.credly.com/earner/earned/badge/4ad8145a-c937-42dc-b9c6-afc22c3454ba)
