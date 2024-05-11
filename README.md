@@ -1,10 +1,11 @@
 ## 👋 - About Me
 
-Passionate 2nd Year student studying Information Technology at King Mongkut’s Institute of Technology Ladkrabang (KMITL) - Bangkok, Thailand, with a demonstrated history of working and experience in Full-Stack Software Development, by using a Bachelor of Science (B.Sc.) in Information Technology knowledge. I am experienced and focused on Web Application / Back-end / Mobile Application and Blockchain Development.
+Passionate 3rd Year student studying Information Technology at King Mongkut’s Institute of Technology Ladkrabang (KMITL) - Bangkok, Thailand, with demonstrated a history of working and experience in Full-Stack Software Development, using a Bachelor of Science (B.Sc.) in Information Technology knowledge.
+
 ## 💼 - Programming Skills & Technology Stack
 
-- Languages : JavaScript & TypeScript, Python, NodeJS, Java, HTML & CSS
-- Frameworks : React, React-Native, Next, Nest, Tailwind, Express, Material-UI, Mantine
+- Languages : JavaScript & TypeScript, Python, Java, HTML & CSS, Go
+- Frameworks : Next, Nest, Tailwind, Express, Material-UI, Mantine, Spring Boot
 - Database:  MySQL, PostgreSQL, MongoDB, Cloud Firestore, Prisma
 - Tools : Visual Studio Code, Git, Docker
 - Other : Microsoft Azure, Firebase, Vercel, Amazon Web Services (AWS)
@@ -12,8 +13,8 @@ Passionate 2nd Year student studying Information Technology at King Mongkut’s 
 ## 📈 - GitHub Status
 
 <p align="center">
- <a href="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"> <img height='150' src="https://github-readme-stats.vercel.app/api?username=misterfocusth&show_icons=true&count_private=true&include_all_commits=true"/> </a>
- <a href="https://badge42.vercel.app/api/v2/cl2qdxvri012509mllmg19men/stats?cursusId=3&coalitionId=piscine"> <img height='150' src="https://badge42.vercel.app/api/v2/cl2qdxvri012509mllmg19men/stats?cursusId=3&coalitionId=piscine"/> </a>
+ <a> <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misterfocusth&theme=github"/> </a>
+  <a> <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=misterfocusth&theme=github&utcOffset=7"/> </a>
 </p>
 
 
@@ -22,7 +23,8 @@ Passionate 2nd Year student studying Information Technology at King Mongkut’s 
 - <a href="https://github.com/misterfocusth/Sri-Ayudhya-School-WeRe-Project">Sri Ayudhya School - We Re(cycle)</a>
 Received National First (1st) Runner-Up Award in The National Software Contest 24th (NSC2022) 
 and Funding for research and development from [National Science and Technology Development Agency (NSTDA)](https://www.nstda.or.th/home/)
-- <a href="https://github.com/misterfocusth/HongFah-Online-IT-KMITL">HongFah Online - Faculty of IT's Student Infotmation System</a> Received outstanding project awards of 06016408 Object-Oriented Programming (Academic Year 2022)
+- <a href="https://github.com/misterfocusth/HongFah-Online-IT-KMITL">HongFah Online - Faculty of IT's Student Information System</a> Received outstanding project awards of 06016408 Object-Oriented Programming (Academic Year 2022)
+- <a href="https://jlearn.it.kmitl.ac.th/">J:Learn (Online Structural Validate-based System)</a>
 - <a href="https://github.com/misterfocusth/BloodPrompt">BloodPrompt (One-stop-services blood donation application)</a>
 - <a href="https://github.com/misterfocusth/Kin-Arai-Dee-KMITL">Kin Arai Dee - (Nearby KMITL)</a>
 - <a href="https://github.com/misterfocusth/TH-Covid-Data-Virtualization-G2Plot">Thailand COVID-19 Virtulization Dashboard using G2Plot</a>
@@ -51,8 +53,6 @@ and Funding for research and development from [National Science and Technology D
 ## ✉️ - My Contract & Social Media & Blog
 <p align="left">
  <a href="https://web.facebook.com/Silapakdeewong2546"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
- <a href="https://twitter.com/FocusPakdeewong"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
  <a href="https://www.linkedin.com/in/sila-pakdeewong/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
- <a href="https://www.youtube.com/c/MISTERFOCUSTH"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
  <a href="https://medium.com/@misterfocusth"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> </a>
 </p>
