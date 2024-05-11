@@ -13,8 +13,8 @@ Passionate 3rd Year student studying Information Technology at King Mongkut’s 
 ## 📈 - GitHub Status
 
 <p align="center">
- <a> <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misterfocusth&theme=github"/> </a>
-  <a> <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=misterfocusth&theme=github&utcOffset=7"/> </a>
+ <a> <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misterfocusth&theme=github"/> </a>
+  <a> <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=misterfocusth&theme=github&utcOffset=7"/> </a>
 </p>
 
 
